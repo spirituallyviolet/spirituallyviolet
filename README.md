@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1843" height="474" alt="image" src="https://github.com/user-attachments/assets/e1eca326-4ff5-4329-90ed-ed4b781181ed" />
+<img width="1843" height="474" alt="image" src="https://media.discordapp.net/attachments/1544835228302974996/1552040464562004179/Github_banner_ok.png?ex=6ab57b52&is=6ab429d2&hm=15e0155aa30f52a2268e0c2d97b268597ab07210a96b43f2512a445e8fe1c6fa&=&format=webp&quality=lossless&width=1536&height=395" />
 
 [![Badge Alt Text](https://img.shields.io/badge/atabook-491353?style=for-the-badge&labelColor=#F4F62)](https://spirituallyviolet.atabook.org/) ㅤㅤ [![Badge Alt Text](https://img.shields.io/badge/strawpages-491353?style=for-the-badge&labelColor=63086A)](https://spirituallyviolet.straw.page/) 
 
@@ -14,8 +14,8 @@
 
 $\color{#AB5BB9}{\textsf{━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━}}$
 
-<img width="109" height="61" alt="image" src="https://github.com/user-attachments/assets/0e708015-eddc-4229-8ccf-b9c9969540dc" /> ㅤ  <img width="109" height="61" alt="image" src="https://github.com/user-attachments/assets/ceda243d-99aa-403c-aa3a-11086f02501c" /> ㅤ  <img width="109" height="61" alt="image" src="https://github.com/user-attachments/assets/a520da91-1aa8-44fa-80bb-2e5302132d5e" /> ㅤ  <img width="109" height="61" alt="image" src="https://github.com/user-attachments/assets/544a5e7c-39ba-4c72-bed8-40458ff42860" />
+<img width="109" height="61" alt="image" src="https://media.discordapp.net/attachments/1439083352442273896/1552080990283898940/purple_planet___f2u_stamp_by_wytchstarr_dk06zqv-fullview.png?ex=6ab5a110&is=6ab44f90&hm=d5a481159ea7db190e853384ca09dd608431b5b0e070065f57e29037f0da62e3&=&format=webp&quality=lossless" /> ㅤ  <img width="109" height="61" alt="image" src="https://media.discordapp.net/attachments/1439083352442273896/1552080989042254016/b49.png?ex=6ab5a110&is=6ab44f90&hm=7311212f0bdc82760416a945264f70865616bd971af89577a46e4698f85b7e44&=&format=webp&quality=lossless" /> ㅤ  <img width="109" height="61" alt="image" src="https://media.discordapp.net/attachments/1439083352442273896/1552080990980014100/98798a4ac11ecc0ad9906c6ad02d0d5dfdfb6d8f.png?ex=6ab5a110&is=6ab44f90&hm=fb8b9e8c85d6b2cdb7d70adc7200ce80a58e4a15a5870724f26b5c57dd2dffd8&=&format=webp&quality=lossless" /> ㅤ  <img width="109" height="61" alt="image" src="https://media.discordapp.net/attachments/1439083352442273896/1552080989650681966/b42.png?ex=6ab5a110&is=6ab44f90&hm=78502b81b699eb89ba57d2f94857b2c035b7a01384c6579bfd7a0f21ee7a46f1&=&format=webp&quality=lossless" />
 
-<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/59a05745-3163-4619-87d8-f9eaaf5eb604" />
- <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/e5a02a10-3f6c-477d-bc13-819c49c7428e" />
- <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/878577d3-ab65-48c8-8f3c-31dad36de227" />
+<img width="150" height="20" alt="image" src="https://media.discordapp.net/attachments/1439083352442273896/1552080988329218128/f40.gif?ex=6ab5a10f&is=6ab44f8f&hm=c14d6f70ec7c6cfd7eef226f68ca5e5b5320b5af224b530f7208c5070cad5b75&=" />
+ <img width="150" height="20" alt="image" src="https://media.discordapp.net/attachments/1439083352442273896/1552080991642849452/idonthavegoodatmathsautismblinkie.png?ex=6ab5a110&is=6ab44f90&hm=bc0958d3d77a94f7c0c5132f035efc17ea54a2674bee9f18cf0fe5726460fcb1&=&format=webp&quality=lossless" />
+ <img width="150" height="20" alt="image" src="https://adriansblinkiecollection.neocities.org/f41.gif" />
