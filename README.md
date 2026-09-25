@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1843" height="474" alt="image" src="https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_png/cloudinary-tools-uploads/mz5zxun5ufwc9cvdgfha" />
+<img width="1843" height="474" alt="image" src="file:///C:/Users/Mitch/Downloads/Github%20banner%20ok.png" />
 
 [![Badge Alt Text](https://img.shields.io/badge/atabook-491353?style=for-the-badge&labelColor=#F4F62)](https://spirituallyviolet.atabook.org/) ㅤㅤ [![Badge Alt Text](https://img.shields.io/badge/strawpages-491353?style=for-the-badge&labelColor=63086A)](https://spirituallyviolet.straw.page/) 
 
