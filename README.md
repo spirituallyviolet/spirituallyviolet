@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1843" height="474" alt="image" src="https://media.discordapp.net/attachments/1544835228302974996/1552040464562004179/Github_banner_ok.png?ex=6ab57b52&is=6ab429d2&hm=15e0155aa30f52a2268e0c2d97b268597ab07210a96b43f2512a445e8fe1c6fa&=&format=webp&quality=lossless&width=1536&height=395" />
+<img width="1843" height="474" alt="image" src="https://user36132.na.imgto.link/public/20260925/github-banner-ok-1.png" />
 
 [![Badge Alt Text](https://img.shields.io/badge/atabook-491353?style=for-the-badge&labelColor=#F4F62)](https://spirituallyviolet.atabook.org/) ㅤㅤ [![Badge Alt Text](https://img.shields.io/badge/strawpages-491353?style=for-the-badge&labelColor=63086A)](https://spirituallyviolet.straw.page/) 
 
