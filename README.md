@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1843" height="474" alt="image" src="https://private-user-images.githubusercontent.com/230780379/660480208-4dc3500f-3896-4175-815f-0343726ba9df.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA2MTQ0NjEsIm5iZiI6MTc5MDYxNDE2MSwicGF0aCI6Ii8yMzA3ODAzNzkvNjYwNDgwMjA4LTRkYzM1MDBmLTM4OTYtNDE3NS04MTVmLTAzNDM3MjZiYTlkZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkyOFQxNjQ5MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZWNkYzY4YTdiZTcyNDM4ZWNhY2VkOTY5MDViZDE3ODExOGFmYWM3OTBiZTA1NTdiYWEwNmJlYTc4OTllYmRhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.ZHIb1HmB5Mzy8qCJLtAHhVgsYwDJ6aa45k-WTKRiNm0" />
+<img width="1843" height="474" alt="image" src="https://file.garden/asAQW5JAzcXiCdOV/Github%20banner%20ok.png" />
 
 [![Badge Alt Text](https://img.shields.io/badge/atabook-491353?style=for-the-badge&labelColor=#F4F62)](https://spirituallyviolet.atabook.org/) ㅤㅤ [![Badge Alt Text](https://img.shields.io/badge/strawpages-491353?style=for-the-badge&labelColor=63086A)](https://spirituallyviolet.straw.page/) 
 
